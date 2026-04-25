@@ -48,39 +48,6 @@ Frontend developer specializing in **React** and **Next.js**, focused on buildin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
-
-### 💼 Experience
-
-**Frontend Developer — BYSST Music** *(Jan 2025 – Nov 2025)*
-- Built responsive, pixel-perfect UIs using React, Next.js, TypeScript & Tailwind CSS
-- Improved site performance and user engagement through optimization techniques
-- Collaborated with clients and team members to deliver high-quality results on deadline
-
----
-
-### 🚀 Projects
-
-**Music Streaming Platform** — [Full-stack]
-
-Next.js · Express.js · PostgreSQL · Prisma · Redux · Socket.io · TypeScript
-
-- JWT & NextAuth authentication, real-time notifications via Socket.io, Khalti payment integration
-
-**Removal Service Website** — [Frontend]
-
-Next.js · TypeScript · Tailwind CSS
-
-- API integration, SEO optimization, high performance delivery
-
-**Mega Tech Valley Consultancy Website** — [Frontend]
-
-Next.js · Sanity CMS
-
-- Content management, responsive design, SEO optimization
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -94,13 +61,7 @@ Next.js · Sanity CMS
 
 ---
 
-### 🎓 Education
 
-**BSc (Hons) Computing** — Informatics College Pokhara *(2021 – 2024)*
-
-Software Development · Web Technologies · Database Systems · AI
-
----
 
 <p align="center">
   <i>Open to frontend roles and freelance projects. Let's build something great.</i>
